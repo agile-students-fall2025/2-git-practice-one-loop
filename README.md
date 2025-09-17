@@ -9,6 +9,5 @@ It's almost astonishing — and a little concerning — how effectively AI can *
 
 @xl4624: This is pretty cool article, I've never used Claude Code but I tried Gemini CLI and I thought it performed decently. In my opinion I'm more bullish on AI tools integrated within the IDE than completely separate Command Line tools. I think for quality code you need a human to verify the code looks correct, and also having the AI integrated into your IDE gives it access to the files you're looking at, any lint/warnings from the LSP, as well as your terminal/build output - all of which make the agent loop run more smoothly.
 
-### @haroonshafi:
-I agree with the point that AI integrated in IDEs is powerful (although to be honest, I still use it separately). I’ve noticed that tools like GitHub Copilot make development faster, but they still require human judgment to ensure correctness.  
+@haroonshafi: I agree with the point that AI integrated in IDEs is powerful (although to be honest, I still use it separately). I’ve noticed that tools like GitHub Copilot make development faster, but they still require human judgment to ensure correctness.  
 Personally, I think the biggest benefit is not in writing entire apps, but in reducing repetitive coding and helping with debugging.
